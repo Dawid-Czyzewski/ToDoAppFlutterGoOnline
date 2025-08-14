@@ -1,16 +1,12 @@
-# to_do_app
+Poniżej przesyłam film z działania apliakcji
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+https://github.com/user-attachments/assets/34835c3d-0604-4080-8622-72c93ce48699
 
-A few resources to get you started if this is your first Flutter project:
+Poniżej film z działaniem powiadomień
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+https://github.com/user-attachments/assets/348c45ad-7aa0-4d97-96c8-fe7a727f5536
+
